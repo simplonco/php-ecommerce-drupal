@@ -59,7 +59,7 @@ Exemples :
 Pour installer le module [Pathauto](https://www.drupal.org/project/pathauto) Récupérer le nom du module de l'url. Pour cela, récupérer le terme qui se trouve après la partie *project/* de l'url. Dans notre cas **pathauto** (*https://www.drupal.org/project/**pathauto***) 
 
 ```console
-composer install drupal/pathauto
+composer require drupal/pathauto
 ```
 
 ### Thème 
